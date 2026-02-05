@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CryptoTrackClient.Models
+namespace CryptoTrackClient.ViewModels
 {
-    public class CryptoCurrency
+    internal class MainViewModel
     {
     }
 }
